@@ -1,0 +1,8 @@
+C:\projects\github\LaunchDemo\LaunchDemo\bin\Debug\LaunchDemo.exe.config
+C:\projects\github\LaunchDemo\LaunchDemo\bin\Debug\LaunchDemo.exe
+C:\projects\github\LaunchDemo\LaunchDemo\bin\Debug\LaunchDemo.pdb
+C:\projects\github\LaunchDemo\LaunchDemo\obj\Debug\LaunchDemo.csprojResolveAssemblyReference.cache
+C:\projects\github\LaunchDemo\LaunchDemo\obj\Debug\LaunchDemo.Form1.resources
+C:\projects\github\LaunchDemo\LaunchDemo\obj\Debug\LaunchDemo.csproj.GenerateResource.Cache
+C:\projects\github\LaunchDemo\LaunchDemo\obj\Debug\LaunchDemo.exe
+C:\projects\github\LaunchDemo\LaunchDemo\obj\Debug\LaunchDemo.pdb
